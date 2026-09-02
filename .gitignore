@@ -1,0 +1,5 @@
+.env
+tenv/
+__pycache__/
+*.pyc
+processed_data/
